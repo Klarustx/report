@@ -135,9 +135,9 @@ https://github.com/drabastomek/learningPySpark
 
 类似sql，懂sql就行
 
-http://www.runoob.com/sql/sql-select.html
+1. http://www.runoob.com/sql/sql-select.html
  
-http://www.w3school.com.cn/sql/sql_orderby.asp
+2. http://www.w3school.com.cn/sql/sql_orderby.asp
 
 scala 可选择性了解，目前大多数正由python转scala
 
